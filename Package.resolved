@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "GSPlayer",
-        "repositoryURL": "https://github.com/wxxsw/GSPlayer.git",
+        "repositoryURL": "https://github.com/xiaobaiskill/GSPlayer.git",
         "state": {
-          "branch": null,
-          "revision": "706fc28fcc8e33607993903eca82d9f6c7c3f6d2",
-          "version": "0.2.27"
+          "branch": "master",
+          "revision": "b85880bdf67b0963a9dc28ea604cb92cda24e6eb",
+          "version": null
         }
       }
     ]
